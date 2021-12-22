@@ -2,10 +2,10 @@
 
 ## About The Project :eyes: 
 
-* It is an e-commerce website of online clothing shop.
-* I have implemented navigation and routing that takes user to different pages of categories of items. 
+* It is an **e-commerce website** of online clothing shop.
+* I have implemented **navigation and routing** that takes user to different pages of categories of items. 
 * User can also be able to add the items to the cart and to checkout the added items and increase or decrease or remove these items and see the live changes in both checkout page and cart page.
-* I have integrated with a stripe API so that user can handle payments and also integrated with firebase to handle o-authentication and storage.
+* I have integrated with a **stripe API** so that user can handle payments and also integrated with **firebase** to handle **o-authentication** and storage.
 * I have also provide a sign up and sign in with email and password feature.
 
 <br>
